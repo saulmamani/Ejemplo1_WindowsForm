@@ -1,0 +1,11 @@
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\bin\Debug\UI_ejemplo_1.exe.config
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\bin\Debug\UI_ejemplo_1.exe
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\bin\Debug\UI_ejemplo_1.pdb
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.csproj.AssemblyReference.cache
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.csproj.SuggestedBindingRedirects.cache
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.frmPrincipal.resources
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.Properties.Resources.resources
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.csproj.GenerateResource.cache
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.csproj.CoreCompileInputs.cache
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.exe
+F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.pdb
