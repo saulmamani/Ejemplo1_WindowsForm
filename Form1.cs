@@ -27,10 +27,10 @@ namespace UI_ejemplo_1
             int multiplicacion = Multiplicar(numero1, numero2);
             double division = Dividir(numero1, numero2);
 
-            MessageBox.Show($"La suma es: {suma}\n" +
-                $"La resta es: {resta}\n" +
-                $"La multiplicacion es: {multiplicacion}\n" +
-                $"La division es: {division}");
+            MessageBox.Show($"La Suma es: {suma}\n" +
+                $"La Resta es: {resta}\n" +
+                $"La Multiplicacion es: {multiplicacion}\n" +
+                $"La Division es: {division}");
         }
 
         private double Dividir(int numero1, int numero2)
