@@ -27,6 +27,9 @@ namespace UI_ejemplo_1
             int multiplicacion = Multiplicar(numero1, numero2);
             double division = Dividir(numero1, numero2);
 
+            //cambios agregados por la rama soraya
+            
+
             MessageBox.Show($"La Suma es: {suma}\n" +
                 $"La Resta es: {resta}\n" +
                 $"La Multiplicacion es: {multiplicacion}\n" +
@@ -42,12 +45,14 @@ namespace UI_ejemplo_1
         {
             return numero1 * numero2;
         }
-
+        
+        //metodo restar 
         private int Restar(int numero1, int numero2)
         {
             return numero1 - numero2;
         }
 
+        //metodo Suma documentado
         private int Sumar(int numero1, int numero2)
         {
             return numero1 + numero2;
