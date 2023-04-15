@@ -33,6 +33,12 @@ namespace UI_ejemplo_1
                 $"La Division es: {division}");
         }
 
+        /// <summary>
+        /// Divide dos numeros enteros
+        /// </summary>
+        /// <param name="numero1"></param>
+        /// <param name="numero2"></param>
+        /// <returns></returns>
         private double Dividir(int numero1, int numero2)
         {
             return numero1 / (double)numero2;
