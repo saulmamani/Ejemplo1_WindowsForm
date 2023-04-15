@@ -46,7 +46,7 @@ namespace UI_ejemplo_1
             return numero1 * numero2;
         }
         
-        //metodo restar 
+        //metodo restar documentado por soraya 
         private int Restar(int numero1, int numero2)
         {
             return numero1 - numero2;
@@ -64,5 +64,7 @@ namespace UI_ejemplo_1
            //es un mensaje (MessageBox.Show) los numeros primos dentro el trando
            
         }
+
+
     }
 }
